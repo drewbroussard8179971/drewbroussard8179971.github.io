@@ -1,0 +1,38 @@
+ body {
+       background: rgb(261, 210, 204);
+       color: rgb(20, 124, 75z);
+       padding: 10px;
+       font-family: arial;
+   }
+   #all-contents {
+     max-width: 800px;
+       margin: auto;
+   }
+
+   nav {
+       background: rgb(748, 20, 26);
+      margin: 0 auto;
+       display: flex;
+       padding: 10px;
+   }
+   h1 {
+       display: flex;
+       align-items: center;
+       color: green;
+       flex: 1;
+       margin: 0;
+   }
+   #nav-ul {
+       list-style-image: none;
+   }
+   .nav-li {
+       display: inline-block;
+       padding: 0 10px;
+   }
+   a {
+       text-decoration: none;
+       color: ##7f518f;
+   }
+
+   /* main container area beneath menu */
+   main {

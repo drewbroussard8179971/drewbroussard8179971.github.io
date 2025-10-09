@@ -44,13 +44,17 @@ createPlatform(1350, 300, 30, 10);
 createCollectable("grace", 230, 600);
 createCollectable("steve", 450, 500);
 createCollectable("kennedi", 600, 400);
-
+createCollectable("max", 760, 300);
+createCollectable("diamond", 1345, 250);
     
     // TODO 4 - Create Cannons
 
 
-    
-    
+  createCannon("bottom", 1100, 600);
+  createCannon("bottom", 1000, 500);
+  createCannon("bottom", 900, 450);
+  createCannon("bottom", 800, 400);
+  createCannon("bottom", 1300, 350);
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
     //////////////////////////////////
